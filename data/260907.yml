@@ -5,7 +5,7 @@ about:
   head: b2ad553
   archived: false
   latestVersion: "v0.57.5"
-  collectedAt: 2026-09-07T05:24:57Z
+  collectedAt: 2026-09-07T19:01:29Z
 timeline:
   created: 2017-07-26
   lastCommit: 2026-07-27
@@ -85,7 +85,7 @@ total:
   commit: 1272
 ---
 path: /home/runner/.x-repo/github.com/vmware-tanzu/sonobuoy
-collectedAt: 2026-09-07T05:25:00Z
+collectedAt: 2026-09-07T19:01:33Z
 loc:
   Go:
     code: 23798
@@ -311,7 +311,7 @@ checks:
       - 'Warn: 11 commits out of 30 are checked with a SAST tool'
 ---
 eget:
-  collectedAt: 2026-09-07T05:25:02+00:00
+  collectedAt: 2026-09-07T19:01:35+00:00
   platform:
     darwin/arm64:
       name:  sonobuoy_0.57.5_darwin_arm64.tar.gz
