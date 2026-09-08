@@ -5,7 +5,7 @@ about:
   head: b2ad553
   archived: false
   latestVersion: "v0.57.5"
-  collectedAt: 2026-09-08T02:50:24Z
+  collectedAt: 2026-09-08T05:27:42Z
 timeline:
   created: 2017-07-26
   lastCommit: 2026-07-27
@@ -85,7 +85,7 @@ total:
   commit: 1272
 ---
 path: /home/runner/.x-repo/github.com/vmware-tanzu/sonobuoy
-collectedAt: 2026-09-08T02:50:29Z
+collectedAt: 2026-09-08T05:27:46Z
 loc:
   Go:
     code: 23798
