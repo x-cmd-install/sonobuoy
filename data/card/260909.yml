@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.57.5"
   latestRelease: "v0.57.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-09T05:36:44Z
+  collectedAt: 2026-09-09T19:47:45Z
 timeline:
   created: 2017-07-26
   lastCommit: 2026-07-27
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-07-01
   lastPrerelease: 
 popularity:
-  star: 3050
+  star: 3051
   watcher: 55
   fork: 361
   release: 71
@@ -89,7 +89,7 @@ total:
   commit: 1272
 ---
 path: /home/runner/.x-repo/github.com/vmware-tanzu/sonobuoy
-collectedAt: 2026-09-09T05:36:47Z
+collectedAt: 2026-09-09T19:47:48Z
 loc:
   Go:
     code: 23798
