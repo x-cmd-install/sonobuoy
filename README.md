@@ -7,7 +7,7 @@ Sonobuoy is a diagnostic tool that makes it easier to understand the state of a 
 - **Latest release**: `v0.57.5` (2026-07-01)
 - **Last commit**: 2026-07-27
 - **License**: Apache-2.0
-- **Stars**: 3050 · **Forks**: 361 · **Open issues**: 1037 · **Contributors**: 98
+- **Stars**: 3051 · **Forks**: 361 · **Open issues**: 1037 · **Contributors**: 98
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/sonobuoy> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:36:51Z._
+_Last regenerated: 2026-09-09T19:47:53Z._
