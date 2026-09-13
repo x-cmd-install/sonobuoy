@@ -48,7 +48,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,051 · **Forks**: 361 · **Open issues**: 1,037 · **Contributors**: 98
+- **Stars**: 3,050 · **Forks**: 361 · **Open issues**: 1,037 · **Contributors**: 98
 
 ## Totals (cumulative)
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-13 | 0 | 0 | 1 | 0 | 4 | 0 |
-| last60d | 2026-07-14 | 0 | 1 | 3 | 1 | 5 | 1 |
-| 90d | 2026-06-14 | 1 | 3 | 4 | 1 | 9 | 6 |
-| last180d | 2026-03-16 | 1 | 4 | 5 | 1 | 10 | 9 |
-| 360d | 2025-09-17 | 1 | 6 | 7 | 1 | 16 | 11 |
-| last720d | 2024-09-22 | 2 | 14 | 8 | 12 | 17 | 19 |
+| 30d | 2026-08-14 | 0 | 0 | 1 | 0 | 4 | 0 |
+| last60d | 2026-07-15 | 0 | 1 | 3 | 1 | 5 | 1 |
+| 90d | 2026-06-15 | 1 | 3 | 4 | 1 | 9 | 6 |
+| last180d | 2026-03-17 | 1 | 4 | 5 | 1 | 10 | 9 |
+| 360d | 2025-09-18 | 1 | 6 | 7 | 1 | 16 | 11 |
+| last720d | 2024-09-23 | 2 | 14 | 8 | 12 | 17 | 19 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for sonobuoy lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260912.yml` · 2026-09-12T05:40:37Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:45:23Z._
