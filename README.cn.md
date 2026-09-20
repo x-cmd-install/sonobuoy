@@ -4,7 +4,7 @@
 
 Sonobuoy is a diagnostic tool that makes it easier to understand the state of a Kubernetes cluster by running a set of Kubernetes conformance tests and other plugins in an accessible and non-destructive manner.
 
-![sonobuoy](https://repo.x-cmd.io/sonobuoy.svg?lang=zh)
+[![x-cmd/install — sonobuoy Code Quality Monitoring Repo Card](https://repo.x-cmd.io/sonobuoy.svg?lang=zh)](https://x-cmd.com/install/sonobuoy)
 
 ## 安装
 
@@ -48,7 +48,7 @@ x install sonobuoy
 
 ## 流行度
 
-- **Star**: 3,049 · **Fork**: 361 · **开放 issue**: 1,037 · **贡献者**: 98
+- **Star**: 3,051 · **Fork**: 361 · **开放 issue**: 1,037 · **贡献者**: 98
 
 ## 累计统计
 
@@ -58,12 +58,12 @@ x install sonobuoy
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 3 | 0 |
-| last60d | 2026-07-20 | 0 | 1 | 2 | 1 | 5 | 0 |
-| 90d | 2026-06-20 | 1 | 3 | 4 | 1 | 9 | 6 |
-| last180d | 2026-03-22 | 1 | 4 | 5 | 1 | 10 | 9 |
-| 360d | 2025-09-23 | 1 | 6 | 7 | 1 | 16 | 11 |
-| last720d | 2024-09-28 | 2 | 14 | 8 | 12 | 17 | 19 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 0 | 2 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 2 | 0 | 5 | 0 |
+| 90d | 2026-06-22 | 1 | 3 | 4 | 1 | 9 | 5 |
+| last180d | 2026-03-24 | 1 | 4 | 5 | 1 | 10 | 9 |
+| 360d | 2025-09-25 | 1 | 6 | 7 | 1 | 15 | 11 |
+| last720d | 2024-09-30 | 2 | 14 | 8 | 12 | 17 | 19 |
 
 ## Release 资产
 
@@ -89,4 +89,4 @@ sonobuoy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T05:45:20Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T05:40:43Z._
