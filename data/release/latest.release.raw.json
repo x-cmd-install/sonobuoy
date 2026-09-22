@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 913,
       "digest": "sha256:2f038de79c79d2773e4cb5e429cf073e2fb147f99c6cb3a8a349c402539fd9c9",
-      "download_count": 1683,
+      "download_count": 1712,
       "created_at": "2026-07-01T11:23:12Z",
       "updated_at": "2026-07-01T11:23:13Z",
       "browser_download_url": "https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 25693078,
       "digest": "sha256:4202d3a960a812e68b555829eefbe0cc25de8b2e5cb2fc8e5cc38dfc83515a9d",
-      "download_count": 18,
+      "download_count": 19,
       "created_at": "2026-07-01T11:23:09Z",
       "updated_at": "2026-07-01T11:23:11Z",
       "browser_download_url": "https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 24607015,
       "digest": "sha256:d889c4a4485f3899f8d860506ed4da5380372f23f91cd0113e52f036d842e978",
-      "download_count": 39,
+      "download_count": 43,
       "created_at": "2026-07-01T11:23:09Z",
       "updated_at": "2026-07-01T11:23:11Z",
       "browser_download_url": "https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_darwin_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 25428672,
       "digest": "sha256:7c5c2250e5103c98f4dad2bcab86baf954e319c57c419c113f28f5060e62f129",
-      "download_count": 13458,
+      "download_count": 13744,
       "created_at": "2026-07-01T11:23:09Z",
       "updated_at": "2026-07-01T11:23:10Z",
       "browser_download_url": "https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_linux_amd64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 23935407,
       "digest": "sha256:ec482b5d1ec237f4c94b6fd7be5a69f95678a4331001b3edcb6ad7835ec40695",
-      "download_count": 283,
+      "download_count": 284,
       "created_at": "2026-07-01T11:23:11Z",
       "updated_at": "2026-07-01T11:23:12Z",
       "browser_download_url": "https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_linux_arm64.tar.gz"
