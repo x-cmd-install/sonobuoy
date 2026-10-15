@@ -26,11 +26,11 @@ Total: **37,426** lines of code across **402** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.3 / 10**
+Overall score: **5.5 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (1/10) — 2 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 1
+- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.57.5` (2026-07-01)
-- **Last commit**: 2026-07-27
+- **Last commit**: 2026-10-14
 - **Assets in release**: 10
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 930 · **Open PRs**: 10 · **Closed issues**: 1008 · **Open issues**: 30 · **Commits**: 1272
+- **Releases**: 71 · **Merged PRs**: 931 · **Open PRs**: 9 · **Closed issues**: 1009 · **Open issues**: 29 · **Commits**: 1273
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 0 | 0 | 2 | 0 | 1 | 0 |
-| last60d | 2026-08-15 | 0 | 0 | 3 | 0 | 5 | 0 |
-| 90d | 2026-07-16 | 0 | 1 | 5 | 1 | 6 | 1 |
-| last180d | 2026-04-17 | 1 | 4 | 6 | 1 | 11 | 9 |
-| 360d | 2025-10-19 | 1 | 6 | 9 | 1 | 16 | 11 |
-| last720d | 2024-10-24 | 2 | 14 | 10 | 9 | 18 | 19 |
+| 30d | 2026-09-15 | 0 | 0 | 2 | 0 | 1 | 1 |
+| last60d | 2026-08-16 | 0 | 1 | 2 | 1 | 4 | 1 |
+| 90d | 2026-07-17 | 0 | 2 | 3 | 2 | 5 | 2 |
+| last180d | 2026-04-18 | 1 | 5 | 5 | 2 | 10 | 10 |
+| 360d | 2025-10-20 | 1 | 7 | 8 | 2 | 15 | 12 |
+| last720d | 2024-10-25 | 2 | 15 | 9 | 10 | 17 | 20 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for sonobuoy lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:32:11Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:17:54Z._
