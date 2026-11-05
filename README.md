@@ -26,11 +26,11 @@ Total: **37,426** lines of code across **402** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **5.5 / 10**
+Overall score: **5.3 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
+- **Maintained** (0/10) — 1 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
 
@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 0 | 0 | 2 | 0 | 2 | 1 |
-| last60d | 2026-09-05 | 0 | 0 | 3 | 0 | 3 | 1 |
-| 90d | 2026-08-06 | 0 | 1 | 3 | 1 | 6 | 1 |
-| last180d | 2026-05-08 | 1 | 5 | 6 | 2 | 12 | 9 |
-| 360d | 2025-11-09 | 1 | 7 | 9 | 6 | 13 | 12 |
-| last720d | 2024-11-14 | 2 | 15 | 10 | 14 | 13 | 20 |
+| 30d | 2026-10-06 | 0 | 0 | 2 | 0 | 2 | 1 |
+| last60d | 2026-09-06 | 0 | 0 | 3 | 0 | 3 | 1 |
+| 90d | 2026-08-07 | 0 | 1 | 3 | 1 | 6 | 1 |
+| last180d | 2026-05-09 | 1 | 5 | 6 | 2 | 12 | 9 |
+| 360d | 2025-11-10 | 1 | 7 | 9 | 6 | 13 | 12 |
+| last720d | 2024-11-15 | 2 | 15 | 10 | 14 | 13 | 19 |
 
 ## Release assets
 
@@ -80,16 +80,6 @@ Lowest-scoring checks:
 | [sonobuoy_0.57.5_windows_386.tar.gz](https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_windows_386.tar.gz) | 24.0 MiB | `native/win/x64` |
 | [sonobuoy_0.57.5_windows_amd64.tar.gz](https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_windows_amd64.tar.gz) | 24.6 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **13** distros on [repology.org](https://repology.org/project/sonobuoy). **4** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.57.5` | ✅ latest |
-| Nix unstable | `0.57.5` | ✅ latest |
-| openSUSE Tumbleweed | `0.57.5` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for sonobuoy lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sonobuoy` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +89,4 @@ Install metadata for sonobuoy lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:08:37Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T07:35:19Z._
