@@ -48,22 +48,22 @@ x install sonobuoy
 
 ## 流行度
 
-- **Star**: 3,052 · **Fork**: 361 · **开放 issue**: 1,041 · **贡献者**: 96
+- **Star**: 3,052 · **Fork**: 361 · **开放 issue**: 1,042 · **贡献者**: 96
 
 ## 累计统计
 
-- **发布数**: 71 · **已合并 PR**: 932 · **开放 PR**: 11 · **已关闭 issue**: 1016 · **开放 issue**: 25 · **提交数**: 1274
+- **发布数**: 71 · **已合并 PR**: 932 · **开放 PR**: 11 · **已关闭 issue**: 1016 · **开放 issue**: 26 · **提交数**: 1274
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 1 | 2 | 1 | 2 | 0 |
-| last60d | 2026-09-26 | 0 | 1 | 4 | 1 | 2 | 2 |
-| 90d | 2026-08-27 | 0 | 1 | 4 | 1 | 3 | 2 |
-| last180d | 2026-05-29 | 1 | 5 | 7 | 3 | 12 | 8 |
-| 360d | 2025-11-30 | 1 | 7 | 9 | 6 | 13 | 11 |
-| last720d | 2024-12-05 | 2 | 16 | 11 | 14 | 13 | 20 |
+| 30d | 2026-10-27 | 0 | 1 | 2 | 1 | 3 | 0 |
+| last60d | 2026-09-27 | 0 | 1 | 4 | 1 | 3 | 2 |
+| 90d | 2026-08-28 | 0 | 1 | 4 | 1 | 4 | 2 |
+| last180d | 2026-05-30 | 1 | 5 | 7 | 3 | 13 | 8 |
+| 360d | 2025-12-01 | 1 | 7 | 9 | 6 | 14 | 11 |
+| last720d | 2024-12-06 | 2 | 16 | 11 | 14 | 14 | 20 |
 
 ## Release 资产
 
@@ -80,6 +80,16 @@ x install sonobuoy
 | [sonobuoy_0.57.5_windows_386.tar.gz](https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_windows_386.tar.gz) | 24.0 MiB | `native/win/x64` |
 | [sonobuoy_0.57.5_windows_amd64.tar.gz](https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_windows_amd64.tar.gz) | 24.6 MiB | `native/win/x64` |
 
+## 发行版状态
+
+在 [repology.org](https://repology.org/project/sonobuoy) 上共有 **13** 个发行版报告此项目。**4** 个 ✅ 已是最新上游版本，**9** 个 ⚠️ 使用旧版本。
+
+| 发行版 | 版本 | 状态 |
+|--------|------|------|
+| Homebrew | `0.57.5` | ✅ latest |
+| Nix unstable | `0.57.5` | ✅ latest |
+| openSUSE Tumbleweed | `0.57.5` | ✅ latest |
+
 ## 改进这些数据
 
 sonobuoy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索引维护——这是一份由 x-cmd 在安装时读取的精选 YAML 包列表。如果 `sonobuoy` 缺失、过期，或安装行为有问题，欢迎在该 repo 提 issue 或 PR：
@@ -89,4 +99,4 @@ sonobuoy 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261125.yml` · 2026-11-25T09:54:00Z._
+_数据快照: `data/card/261126.yml` · 2026-11-26T08:51:21Z._

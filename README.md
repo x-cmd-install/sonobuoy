@@ -48,22 +48,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 3,052 · **Forks**: 361 · **Open issues**: 1,041 · **Contributors**: 96
+- **Stars**: 3,052 · **Forks**: 361 · **Open issues**: 1,042 · **Contributors**: 96
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 932 · **Open PRs**: 11 · **Closed issues**: 1016 · **Open issues**: 25 · **Commits**: 1274
+- **Releases**: 71 · **Merged PRs**: 932 · **Open PRs**: 11 · **Closed issues**: 1016 · **Open issues**: 26 · **Commits**: 1274
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 1 | 2 | 1 | 2 | 0 |
-| last60d | 2026-09-26 | 0 | 1 | 4 | 1 | 2 | 2 |
-| 90d | 2026-08-27 | 0 | 1 | 4 | 1 | 3 | 2 |
-| last180d | 2026-05-29 | 1 | 5 | 7 | 3 | 12 | 8 |
-| 360d | 2025-11-30 | 1 | 7 | 9 | 6 | 13 | 11 |
-| last720d | 2024-12-05 | 2 | 16 | 11 | 14 | 13 | 20 |
+| 30d | 2026-10-27 | 0 | 1 | 2 | 1 | 3 | 0 |
+| last60d | 2026-09-27 | 0 | 1 | 4 | 1 | 3 | 2 |
+| 90d | 2026-08-28 | 0 | 1 | 4 | 1 | 4 | 2 |
+| last180d | 2026-05-30 | 1 | 5 | 7 | 3 | 13 | 8 |
+| 360d | 2025-12-01 | 1 | 7 | 9 | 6 | 14 | 11 |
+| last720d | 2024-12-06 | 2 | 16 | 11 | 14 | 14 | 20 |
 
 ## Release assets
 
@@ -80,6 +80,16 @@ Lowest-scoring checks:
 | [sonobuoy_0.57.5_windows_386.tar.gz](https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_windows_386.tar.gz) | 24.0 MiB | `native/win/x64` |
 | [sonobuoy_0.57.5_windows_amd64.tar.gz](https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_windows_amd64.tar.gz) | 24.6 MiB | `native/win/x64` |
 
+## Distribution status
+
+Reported by **13** distros on [repology.org](https://repology.org/project/sonobuoy). **4** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.57.5` | ✅ latest |
+| Nix unstable | `0.57.5` | ✅ latest |
+| openSUSE Tumbleweed | `0.57.5` | ✅ latest |
+
 ## Improve this data
 
 Install metadata for sonobuoy lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sonobuoy` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -89,4 +99,4 @@ Install metadata for sonobuoy lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T09:53:59Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:51:20Z._
