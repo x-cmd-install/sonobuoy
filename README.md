@@ -43,7 +43,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.57.5` (2026-07-01)
-- **Last commit**: 2026-11-06
+- **Last commit**: 2026-11-27
 - **Assets in release**: 10
 
 ## Popularity
@@ -52,18 +52,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 71 · **Merged PRs**: 932 · **Open PRs**: 11 · **Closed issues**: 1016 · **Open issues**: 26 · **Commits**: 1274
+- **Releases**: 71 · **Merged PRs**: 933 · **Open PRs**: 10 · **Closed issues**: 1017 · **Open issues**: 25 · **Commits**: 1275
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 0 | 1 | 2 | 1 | 3 | 0 |
-| last60d | 2026-09-27 | 0 | 1 | 4 | 1 | 3 | 2 |
-| 90d | 2026-08-28 | 0 | 1 | 4 | 1 | 4 | 2 |
-| last180d | 2026-05-30 | 1 | 5 | 7 | 3 | 13 | 8 |
-| 360d | 2025-12-01 | 1 | 7 | 9 | 6 | 14 | 11 |
-| last720d | 2024-12-06 | 2 | 16 | 11 | 14 | 14 | 20 |
+| 30d | 2026-10-28 | 0 | 1 | 1 | 1 | 2 | 1 |
+| last60d | 2026-09-28 | 0 | 2 | 2 | 2 | 2 | 3 |
+| 90d | 2026-08-29 | 0 | 2 | 3 | 2 | 3 | 3 |
+| last180d | 2026-05-31 | 1 | 6 | 6 | 4 | 12 | 9 |
+| 360d | 2025-12-02 | 1 | 8 | 8 | 7 | 13 | 12 |
+| last720d | 2024-12-07 | 2 | 17 | 10 | 15 | 13 | 21 |
 
 ## Release assets
 
@@ -99,4 +99,4 @@ Install metadata for sonobuoy lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T08:51:20Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T09:54:45Z._
