@@ -58,12 +58,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 1 | 1 | 1 | 2 | 1 |
-| last60d | 2026-09-28 | 0 | 2 | 2 | 2 | 2 | 3 |
-| 90d | 2026-08-29 | 0 | 2 | 3 | 2 | 3 | 3 |
-| last180d | 2026-05-31 | 1 | 6 | 6 | 4 | 12 | 9 |
-| 360d | 2025-12-02 | 1 | 8 | 8 | 7 | 13 | 12 |
-| last720d | 2024-12-07 | 2 | 17 | 10 | 15 | 13 | 21 |
+| 30d | 2026-10-29 | 0 | 1 | 1 | 1 | 1 | 1 |
+| last60d | 2026-09-29 | 0 | 2 | 2 | 2 | 2 | 3 |
+| 90d | 2026-08-30 | 0 | 2 | 3 | 2 | 3 | 3 |
+| last180d | 2026-06-01 | 1 | 6 | 6 | 4 | 12 | 9 |
+| 360d | 2025-12-03 | 1 | 8 | 8 | 7 | 13 | 12 |
+| last720d | 2024-12-08 | 2 | 17 | 10 | 15 | 13 | 21 |
 
 ## Release assets
 
@@ -80,16 +80,6 @@ Lowest-scoring checks:
 | [sonobuoy_0.57.5_windows_386.tar.gz](https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_windows_386.tar.gz) | 24.0 MiB | `native/win/x64` |
 | [sonobuoy_0.57.5_windows_amd64.tar.gz](https://github.com/vmware-tanzu/sonobuoy/releases/download/v0.57.5/sonobuoy_0.57.5_windows_amd64.tar.gz) | 24.6 MiB | `native/win/x64` |
 
-## Distribution status
-
-Reported by **13** distros on [repology.org](https://repology.org/project/sonobuoy). **4** are ✅ on the latest upstream release, **9** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.57.5` | ✅ latest |
-| Nix unstable | `0.57.5` | ✅ latest |
-| openSUSE Tumbleweed | `0.57.5` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for sonobuoy lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `sonobuoy` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -99,4 +89,4 @@ Install metadata for sonobuoy lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:54:45Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T08:47:27Z._
